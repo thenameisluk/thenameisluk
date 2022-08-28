@@ -1,10 +1,12 @@
 Hej ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) jestem luk
 ===========================================================================================================================
 
-Gut enough programista
-----------------------
+głównie zajmuję się C++'em i javaScript'em
+-------------------------------------------
 
 lubię pisać ciekawe projekty
+
+znam troche java'e
 
 * 🌍  Mieszkam w Tychach
 * 🖥️  Moje strona [tutaj](http://https://luktvpl.github.io)
