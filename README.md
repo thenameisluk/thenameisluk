@@ -31,7 +31,7 @@ Ogólnie to szukam przyjaciuł : luktvpl#3144
 
 ### Odznaki
 
-<b>My GitHub Stats</b>
+<b>Mój status GitHub</b>
 
 <a href="http://www.github.com/luktvpl"><img src="https://github-readme-stats.vercel.app/api?username=luktvpl&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="luktvpl's GitHub stats" /></a>
 
