@@ -12,7 +12,6 @@ znam troche java'e
 * 🖥️  Moje strona [tutaj](http://https://luktvpl.github.io)
 * ✉️  Kontakt luktvpl#3144
 * 🤝  Mogę podjąć współprace w ciekawych projektach
-* ⚡  lubie lisy
 
 ### Języki programowania
 
