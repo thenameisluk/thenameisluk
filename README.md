@@ -9,7 +9,7 @@ lubię pisać ciekawe projekty
 znam troche java'e
 
 * 🌍  Mieszkam w Polsce
-* 🖥️  Moje strona [tutaj](http://https://luktvpl.github.io)
+* 🖥️  Moje strona [tutaj](https://luktvpl.github.io)
 * ✉️  Kontakt luktvpl#3144
 * 🤝  Mogę podjąć współprace w ciekawych projektach
 
